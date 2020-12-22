@@ -6,9 +6,8 @@
   Solution Engineer working at Mulesoft with a passion for figuring out solutions to the trickiest of problems!
 </h3>
 
-<br />
 <hr />
 
 <div style="text-align:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikeacjones&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=material-palenight&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeacjones&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=material-palenight&count_private=true" />
 </div>
