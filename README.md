@@ -2,25 +2,10 @@
   Hi there 👋 I'm Michael
 </h2>
 
+<h3 align="center">
+  Solution Engineer working at Mulesoft with a passion for figuring out solutions to the trickiest of problems!
+</h3>
+
 ### Github Stats
 
 [![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikeacjones&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
-### About
-
-Solution Engineer working at Mulesoft with a passion for figuring out solutions to the trickiest of problems!
-<!--
-**mikeacjones/mikeacjones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
