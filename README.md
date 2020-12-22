@@ -6,6 +6,9 @@
   Solution Engineer working at Mulesoft with a passion for figuring out solutions to the trickiest of problems!
 </h3>
 
-### Github Stats
+<br />
+<hr />
 
-[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikeacjones&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<div style="text-align:center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mikeacjones&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=material-palenight&count_private=true" />
+</div>
