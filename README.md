@@ -8,6 +8,4 @@
 
 <hr />
 
-<div style="text-align:center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mikeacjones&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=material-palenight&count_private=true" />
-</div>
+[![Michael's github stats](https://github-readme-stats.vercel.app/api?username=mikeacjones&count_private=true&hide=stars,issues,contribs&show_icons=true&theme=material-palenight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
